@@ -43,6 +43,7 @@ Este projeto está relacionado ao tema do app de rotas de fuga para casos de des
 - Montamos um circuito no Tinkercad com Arduino Uno e potenciômetro, simulando um sensor analógico de nível de água.
 - Código Arduino para enviar o valor do potenciômetro pela porta serial a cada segundo.
 - Possibilidade de ler esses dados em Python (com hardware real) e alimentar o modelo.
+- https://www.tinkercad.com/things/2wFnhjOrqWc-spectacular-densor
 
 ---
 
@@ -63,6 +64,7 @@ Este projeto utiliza uma arquitetura que integra sensores IoT (Arduino/ESP32) co
    - O backend é hospedado em ambiente cloud temporário (Google Colab) e disponibilizado externamente com o uso de ngrok.  
    - O ESP32 é simulado no Wokwi enviando os dados para o backend.  
    - Alternativamente, Arduino físico pode enviar dados via serial para o modelo local.
+   - https://wokwi.com/projects/432745952218826753
 
 Essa arquitetura demonstra a integração completa entre hardware IoT, comunicação em tempo real e análise preditiva com Machine Learning, essencial para soluções inteligentes de prevenção e evacuação em desastres naturais.
 

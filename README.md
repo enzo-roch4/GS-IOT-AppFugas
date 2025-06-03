@@ -64,7 +64,7 @@ Este projeto utiliza uma arquitetura que integra sensores IoT (Arduino/ESP32) co
    - O backend é hospedado em ambiente cloud temporário (Google Colab) e disponibilizado externamente com o uso de ngrok.  
    - O ESP32 é simulado no Wokwi enviando os dados para o backend.  
    - Alternativamente, Arduino físico pode enviar dados via serial para o modelo local.
-   - https://wokwi.com/projects/432745952218826753
+   - [https://wokwi.com/projects/432745952218826753](https://wokwi.com/projects/432769374785470465)
 
 Essa arquitetura demonstra a integração completa entre hardware IoT, comunicação em tempo real e análise preditiva com Machine Learning, essencial para soluções inteligentes de prevenção e evacuação em desastres naturais.
 

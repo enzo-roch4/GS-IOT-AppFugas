@@ -16,7 +16,7 @@ Este projeto está relacionado ao tema do app de rotas de fuga para casos de des
 - **Software**: Python 3.x
 - **Bibliotecas**: scikit-learn, numpy, pandas, matplotlib, pyserial
 - **Plataformas**: Google Colab (para desenvolvimento e testes), Wokwi (simulação de ESP32 + sensores)
-- **Comunicação**: ThingSpeak (para monitoramento em tempo real)
+- **Comunicação**: ThingSpeak (para monitoramento em tempo real) Link ThingsSpeak = https://thingspeak.mathworks.com/channels/2981150
 
 ---
 

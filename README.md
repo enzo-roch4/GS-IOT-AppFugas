@@ -2,6 +2,8 @@
 
 ## Previsão de Inundações com IoT e Machine Learning
 
+[Video Apresentação](https://www.youtube.com/watch?v=0L3dRTaXeDQ)(clique aqui!)
+
 ### Descrição do Projeto
 
 Este projeto visa criar uma solução para previsão de risco de inundações utilizando dados simulados de sensores IoT (nível de água, temperatura e abalos sismicos), integrando **Machine Learning (ML)** para análise e previsão em tempo real. A ideia principal é desenvolver um modelo que, com base em dados ambientais coletados, possa alertar sobre riscos de desastres naturais, contribuindo para a segurança e evacuação em áreas de risco.
